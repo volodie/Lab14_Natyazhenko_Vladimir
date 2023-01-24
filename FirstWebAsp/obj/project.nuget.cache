@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LOvk/daABd3r6Q3hf8cvxk5QyIT4xolAfl1mDyNwo86PtL8DKs2p8KR2LYaCc61IVXKWySYeVUwaPM29+rCn7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v.natyazhenko\\source\\repos\\FirstWebAsp\\FirstWebAsp\\FirstWebAsp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://dcplvmp-sysnug1/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
